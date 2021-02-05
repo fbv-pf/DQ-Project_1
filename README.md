@@ -7,3 +7,6 @@ This project is about simulating the role of a data analyst working at a company
 We are in charge of using data from our portfolio of apps to help the app developers understand what type of apps bring about the most users.
 
 This is valuable since more users means more ad revenue.
+
+## What have I learned so far?
+. Open a data set, explore its structure, identify variables of interest for the task at hand.
