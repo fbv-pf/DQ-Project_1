@@ -10,6 +10,6 @@ This is valuable since more users means more ad revenue.
 
 ## What have I learned so far?
 - Open a data set, explore its structure, identify variables of interest for the task at hand.
-- Analyze the data set, check for duplicate values or entries.
+- Prepare the data set, check for duplicate values or entries, and abide other criteria.
 - Create a routine that cleans the data set of duplicate values and entries.
 - Further data filtering, in this case removing non-English apps from the data set.
