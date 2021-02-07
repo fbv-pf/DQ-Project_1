@@ -10,3 +10,5 @@ This is valuable since more users means more ad revenue.
 
 ## What have I learned so far?
 - Open a data set, explore its structure, identify variables of interest for the task at hand.
+- Analyze the data set, check for duplicate values or entries.
+- Create a routine that cleans the data set of duplicate values and entries.
