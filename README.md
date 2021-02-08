@@ -8,6 +8,10 @@ We are in charge of using data from our portfolio of apps to help the app develo
 
 This is valuable since more users means more ad revenue.
 
+## Note
+
+This is my first guided project solution. The techniques used here are very basic, and I took the project as far as the guidelines asked me to go.
+
 ## What have I learned so far?
 - Open a data set, explore its structure, identify variables of interest for the task at hand.
 - Prepare the data set, check for duplicate values or entries, and abide other criteria.
@@ -16,3 +20,6 @@ This is valuable since more users means more ad revenue.
 - Learned how to do a (simple) analysis of the data, drawing valuable information from it.
 - Also learned how to use Jupyter notebooks, the system and its notation.
 - It was fun!
+
+
+**You, the reader, can find the Jupyter notebook in this repository under the name *"Project 1.ipynb* **
