@@ -13,3 +13,6 @@ This is valuable since more users means more ad revenue.
 - Prepare the data set, check for duplicate values or entries, and abide other criteria.
 - Create a routine that cleans the data set of duplicate values and entries.
 - Further data filtering, in this case removing non-English apps from the data set, plus removing data that does not serve our objectives (non-free apps).
+- Learned how to do a (simple) analysis of the data, drawing valuable information from it.
+- Also learned how to use Jupyter notebooks, the system and its notation.
+- It was fun!
